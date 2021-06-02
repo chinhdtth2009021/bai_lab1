@@ -1,0 +1,6 @@
+C:\Users\Lenovo\RiderProjects\Session01\Bai3\bin\Debug\Bai3.exe
+C:\Users\Lenovo\RiderProjects\Session01\Bai3\bin\Debug\Bai3.pdb
+C:\Users\Lenovo\RiderProjects\Session01\Bai3\obj\Debug\Bai3.csprojAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\Session01\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Session01\Bai3\obj\Debug\Bai3.exe
+C:\Users\Lenovo\RiderProjects\Session01\Bai3\obj\Debug\Bai3.pdb
