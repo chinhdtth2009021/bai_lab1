@@ -1,0 +1,6 @@
+C:\Users\Lenovo\RiderProjects\Session01\QuanLyDuongPho\bin\Debug\QuanLyDuongPho.dll
+C:\Users\Lenovo\RiderProjects\Session01\QuanLyDuongPho\bin\Debug\QuanLyDuongPho.pdb
+C:\Users\Lenovo\RiderProjects\Session01\QuanLyDuongPho\obj\Debug\QuanLyDuongPho.csprojAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\Session01\QuanLyDuongPho\obj\Debug\QuanLyDuongPho.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Session01\QuanLyDuongPho\obj\Debug\QuanLyDuongPho.dll
+C:\Users\Lenovo\RiderProjects\Session01\QuanLyDuongPho\obj\Debug\QuanLyDuongPho.pdb

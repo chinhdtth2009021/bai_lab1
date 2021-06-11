@@ -1,0 +1,6 @@
+C:\Users\Lenovo\RiderProjects\Session01\Lab5\bin\Debug\lab5.exe
+C:\Users\Lenovo\RiderProjects\Session01\Lab5\bin\Debug\lab5.pdb
+C:\Users\Lenovo\RiderProjects\Session01\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\Session01\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Session01\Lab5\obj\Debug\lab5.exe
+C:\Users\Lenovo\RiderProjects\Session01\Lab5\obj\Debug\lab5.pdb

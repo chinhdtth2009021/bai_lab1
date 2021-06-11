@@ -1,0 +1,15 @@
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\bin\Debug\QLDP.exe
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\bin\Debug\QLDP.pdb
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\obj\Debug\QLDP.csprojAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\obj\Debug\QLDP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\obj\Debug\QLDP.exe
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\obj\Debug\QLDP.pdb
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\bin\Debug\QLDP.exe.config
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\obj\Debug\QLDP.exe.config
+C:\Users\Lenovo\RiderProjects\Session01\QLDP\obj\Debug\QLDP.csproj.CopyComplete
