@@ -8,7 +8,7 @@ namespace lab5
 
         public void getName()
         {
-            Console.WriteLine("vui long nhap ten:");
+            Console.WriteLine("vui long nhap ho ten day du:");
             Name = Console.ReadLine();
         }
     }

@@ -39,6 +39,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Customer.cs" />
+        <Compile Include="ex2\Exercise2.cs" />
         <Compile Include="or\Bread.cs" />
         <Compile Include="or\Grocery.cs" />
         <Compile Include="Program.cs" />

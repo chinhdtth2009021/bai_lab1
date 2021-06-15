@@ -7,12 +7,6 @@ namespace Lap4
         public string OfficeHour { get; set; }
         public int Rank { get; set; }
 
-        public override string ToString()
-        {
-            return
-                $"Name: {Name}, Phone: {Phone}, Address: {Address}, Email: {Email}, Department: {Department}, Salary: {Salary}, Date Hired: {DateHired}, OfficeHour: {OfficeHour}, Rank: {Rank}";
-        }
-
         public override double CalculBonus()
         {
             double result;
@@ -28,7 +22,7 @@ namespace Lap4
             {
                 Console.WriteLine("Duoc nghi phep 6 tuan.");
             }
-            else if (year > 3)
+            else if (year > 3 && Rank != 1)
             {
                 Console.WriteLine("Duoc nghi phep 5 tuan.");
             }

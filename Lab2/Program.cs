@@ -7,32 +7,43 @@ namespace Lab2
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("vui long nhap ma sin: ");
-            int n = Int32.Parse(Console.ReadLine());
-            int sun = 0;
-            if (n.ToString().Length!=9)
+            var sin = "193456787";
+            if (sin.Length != 9)
             {
-                Console.WriteLine("chuong trinh chi nhan 9 so: ");
+                Console.WriteLine("sin phai la chuoi gom 9 so: ");
+               return; 
             }
-            else
+            char[] splitedSin = sin.ToCharArray();
+            int[] sinlnNumber = new int[9];
+            for (int i = 0; i < splitedSin.Length; i++)
             {
-                while (n != 0)
+                sinlnNumber[i] = int.Parse(splitedSin[i].ToString());
+            }
+            var tongSoHangChan = 0;
+            var tongSoHangLe = 0;
+            for (int i = 0; i < sinlnNumber.Length - 1; i++)
+            {
+                if (i % 2 == 0)
                 {
-                    sun = sun + n % 10;
-                    n = n / 10;
-                }
-
-                int total = sun % 10;
-                if (total == 0)
-                {
-                    Console.WriteLine(" This is a valid SIN."); 
+                    tongSoHangLe += sinlnNumber[i];
                 }
                 else
                 {
-                    Console.WriteLine("This is not a valid SIN.");
+                    var temp = (sinlnNumber[i] * 2).ToString().ToCharArray();
+                    for (int j = 0; j < temp.Length; j++)
+                    {
+                        tongSoHangChan += Convert.ToInt32(temp[j].ToString());
+                    }
                 }
-
-                Console.WriteLine("Have a Nice Day!");
+            }
+            var sun = tongSoHangChan + tongSoHangLe;
+            if ((sun + sinlnNumber[sinlnNumber.Length - 1]) %10 == 0)
+            {
+                Console.WriteLine("this i valid sin");
+            }
+            else
+            {
+                Console.WriteLine("loi");
             }
         }
     }
