@@ -39,7 +39,11 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Customer.cs" />
+        <Compile Include="ex2\AmountException.cs" />
         <Compile Include="ex2\Exercise2.cs" />
+        <Compile Include="ex2\HighSchoolTeacher.cs" />
+        <Compile Include="ex2\IEmployeeAction.cs" />
+        <Compile Include="ex2\UniversityTeacher.cs" />
         <Compile Include="or\Bread.cs" />
         <Compile Include="or\Grocery.cs" />
         <Compile Include="Program.cs" />
