@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6", "Lab6\Lab6.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lap4", "Lap4\Lap4.csproj", "{6F682824-8ABB-44E0-9F22-C7DE7D3A6367}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiTrader", "HiTrader\HiTrader.csproj", "{B3FFEE9D-34EE-4DFA-9C3C-11A83B962337}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{6F682824-8ABB-44E0-9F22-C7DE7D3A6367}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F682824-8ABB-44E0-9F22-C7DE7D3A6367}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F682824-8ABB-44E0-9F22-C7DE7D3A6367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3FFEE9D-34EE-4DFA-9C3C-11A83B962337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FFEE9D-34EE-4DFA-9C3C-11A83B962337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FFEE9D-34EE-4DFA-9C3C-11A83B962337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FFEE9D-34EE-4DFA-9C3C-11A83B962337}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

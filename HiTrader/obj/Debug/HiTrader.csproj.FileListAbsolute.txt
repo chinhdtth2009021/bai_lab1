@@ -1,0 +1,17 @@
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\bin\Debug\HiTrader.exe.config
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\bin\Debug\HiTrader.exe
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\bin\Debug\HiTrader.pdb
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\bin\Debug\System.Web.Http.dll
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\bin\Debug\System.Web.Http.xml
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\obj\Debug\HiTrader.csprojAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\obj\Debug\HiTrader.exe.config
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\obj\Debug\HiTrader.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\obj\Debug\HiTrader.csproj.CopyComplete
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\obj\Debug\HiTrader.exe
+C:\Users\Lenovo\RiderProjects\Session01\HiTrader\obj\Debug\HiTrader.pdb
