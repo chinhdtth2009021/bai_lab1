@@ -1,0 +1,6 @@
+C:\Users\Lenovo\RiderProjects\Session01\EvenAndDeledate\bin\Debug\EvenAndDeledate.exe
+C:\Users\Lenovo\RiderProjects\Session01\EvenAndDeledate\bin\Debug\EvenAndDeledate.pdb
+C:\Users\Lenovo\RiderProjects\Session01\EvenAndDeledate\obj\Debug\EvenAndDeledate.csprojAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\Session01\EvenAndDeledate\obj\Debug\EvenAndDeledate.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Session01\EvenAndDeledate\obj\Debug\EvenAndDeledate.exe
+C:\Users\Lenovo\RiderProjects\Session01\EvenAndDeledate\obj\Debug\EvenAndDeledate.pdb
