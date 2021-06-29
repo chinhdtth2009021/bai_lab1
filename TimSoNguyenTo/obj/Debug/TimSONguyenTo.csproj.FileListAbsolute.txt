@@ -1,0 +1,6 @@
+C:\Users\Lenovo\RiderProjects\Session01\TimSONguyenTo\bin\Debug\TimSONguyenTo.exe
+C:\Users\Lenovo\RiderProjects\Session01\TimSONguyenTo\bin\Debug\TimSONguyenTo.pdb
+C:\Users\Lenovo\RiderProjects\Session01\TimSONguyenTo\obj\Debug\TimSONguyenTo.csprojAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\Session01\TimSONguyenTo\obj\Debug\TimSONguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Session01\TimSONguyenTo\obj\Debug\TimSONguyenTo.exe
+C:\Users\Lenovo\RiderProjects\Session01\TimSONguyenTo\obj\Debug\TimSONguyenTo.pdb

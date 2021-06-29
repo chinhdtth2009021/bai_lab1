@@ -1,0 +1,6 @@
+C:\Users\Lenovo\RiderProjects\Session01\QuanLyDanhba\obj\Debug\QuanLyDanhba.csprojAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\Session01\QuanLyDanhba\obj\Debug\QuanLyDanhba.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Session01\QuanLyDanhba\bin\Debug\QuanLyDanhba.exe
+C:\Users\Lenovo\RiderProjects\Session01\QuanLyDanhba\bin\Debug\QuanLyDanhba.pdb
+C:\Users\Lenovo\RiderProjects\Session01\QuanLyDanhba\obj\Debug\QuanLyDanhba.exe
+C:\Users\Lenovo\RiderProjects\Session01\QuanLyDanhba\obj\Debug\QuanLyDanhba.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lenovo\RiderProjects\Session01\ThietKeChuongTrinhCshap\bin\Debug\ThietKeChuongTrinhCshap.exe
+C:\Users\Lenovo\RiderProjects\Session01\ThietKeChuongTrinhCshap\bin\Debug\ThietKeChuongTrinhCshap.pdb
+C:\Users\Lenovo\RiderProjects\Session01\ThietKeChuongTrinhCshap\obj\Debug\ThietKeChuongTrinhCshap.csprojAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\Session01\ThietKeChuongTrinhCshap\obj\Debug\ThietKeChuongTrinhCshap.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Session01\ThietKeChuongTrinhCshap\obj\Debug\ThietKeChuongTrinhCshap.exe
+C:\Users\Lenovo\RiderProjects\Session01\ThietKeChuongTrinhCshap\obj\Debug\ThietKeChuongTrinhCshap.pdb

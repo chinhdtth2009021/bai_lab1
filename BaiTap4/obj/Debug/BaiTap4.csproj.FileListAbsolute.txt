@@ -1,0 +1,6 @@
+C:\Users\Lenovo\RiderProjects\Session01\BaiTap4\bin\Debug\BaiTap4.exe
+C:\Users\Lenovo\RiderProjects\Session01\BaiTap4\bin\Debug\BaiTap4.pdb
+C:\Users\Lenovo\RiderProjects\Session01\BaiTap4\obj\Debug\BaiTap4.csprojAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\Session01\BaiTap4\obj\Debug\BaiTap4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Session01\BaiTap4\obj\Debug\BaiTap4.exe
+C:\Users\Lenovo\RiderProjects\Session01\BaiTap4\obj\Debug\BaiTap4.pdb
