@@ -1,0 +1,6 @@
+C:\Users\Lenovo\RiderProjects\Session01\StoreManager\bin\Debug\StoreManager.exe
+C:\Users\Lenovo\RiderProjects\Session01\StoreManager\bin\Debug\StoreManager.pdb
+C:\Users\Lenovo\RiderProjects\Session01\StoreManager\obj\Debug\StoreManager.csprojAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\Session01\StoreManager\obj\Debug\StoreManager.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Session01\StoreManager\obj\Debug\StoreManager.exe
+C:\Users\Lenovo\RiderProjects\Session01\StoreManager\obj\Debug\StoreManager.pdb
